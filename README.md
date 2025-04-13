@@ -1,5 +1,5 @@
 <h2> 𝙄𝙣 𝙨𝙘𝙞𝙣𝙩𝙞𝙡𝙡𝙖 𝙚𝙨𝙩 𝙖𝙧𝙨 </h2>
-<img align="right" src="https://avatars.githubusercontent.com/u/86042383?v=4" width="230" style='border-radius: 2000;'>
+<img align="right" src="https://i.imgur.com/eMmpW8h.png" width="400" style='border-radius: 2000;'>
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Tweeting%20shit%20%40whosifrago)](https://twitter.com/whosifrago)
 [![GitHub Thaiane](https://img.shields.io/github/followers/whosifrago53?label=follow&style=social)](https://github.com/whosifrago53)
